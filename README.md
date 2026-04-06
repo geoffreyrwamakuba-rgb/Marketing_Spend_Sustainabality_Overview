@@ -44,26 +44,38 @@ Key transformations include:
 - Customer behaviour and lifecycle metrics (repeat rate, repurchase time, and YoY changes)
 - Purchase frequency distribution
 
-🔧 Advanced SQL techniques used:
+Advanced SQL techniques used:
 - Nested CTEs (Common Table Expressions)
 - Window functions - LAG() for YoY growth calculations (spend, ROAS, LTV)
 - Defensive calculations
 - Prevented division errors using NULLIF and COALESCE
 
 ## Key Insights & Recommendations
-### Insight 1 – Returning customer rate is exceptionally high (93% in 2025, +33% YoY)
-The business shows very strong customer retention, with returning customers making up the vast majority of the customer base in 2025. This indicates high product satisfaction and strong repeat purchase behaviour.
-However, such a high repeat rate may also suggest slowing new customer acquisition, which could limit future growth.
-### Recommendation:
-- Invest in new customer acquisition channels (paid social, influencer, partnerships) to rebalance growth
-- Leverage strong retention by introducing subscription or replenishment models for frequently purchased products
-- Use high-LTV repeat customers in lookalike audiences to scale acquisition efficiently
 
-### Insight 2 – Instagram and TikTok are the strongest conversion drivers within Paid Social
-Among paid social channels, Instagram (20.6% CVR) and TikTok (17.2% CVR) significantly outperform Facebook (11.3%).
-This indicates that newer, more visual platforms are more effective at converting traffic, not just driving volume.
-### Recommendation:
-- Reallocate budget from Facebook → Instagram & TikTok
-- Scale high-performing creatives on these platforms
-- Use TikTok/Instagram as primary conversion channels, not just awareness
+### Insight 1 – Google and YouTube are underperforming on conversion and ROAS
 
+Google: low CVR (5.3%) and weak ROAS (3.4x) despite high spend
+
+YouTube: lowest CVR (3.3%) and lowest ROAS (~2.0x)
+
+👉 These channels drive traffic but fail to efficiently convert or monetise it.
+
+### Recommendation:
+- Reposition Google & YouTube as top-of-funnel channels
+- Improve efficiency via better keyword targeting (Google)
+- Retarget this traffic through high-performing channels (Instagram, TikTok, Email)
+
+### Insight 2 – Marketing efficiency has significantly improved YoY, especially in 2025
+
+LTV/CAC increases consistently across years:
+
+2023: mostly ~3.5–5.3
+2024: improves to ~5.0–6.2
+2025: jumps to ~6.7–9.8
+
+👉 This shows a step-change in efficiency, with 2025 delivering substantially higher return on acquisition spend.
+
+### Recommendation:
+- Scale marketing investment while maintaining efficiency thresholds
+- Identify what changed in 2025: Channel mix or better targeting/creatives
+- Double down on these drivers to sustain high LTV/CAC
