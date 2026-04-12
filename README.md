@@ -8,7 +8,7 @@ Tools Used: SQL, Python, Tableau
 Data Sources: Data model based on Shopify, Google Analytics 4, Facebook Ads, Instagram & TikTok Analytics schemas. All data is synthetic.
 
 ## Dashboard
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Marketing_Efficiency_Overview/blob/088e0f653cbebaee4af403ea2d75c2630eea76da/Marketing%20Dashboard.png)
+![alt text](https://github.com/geoffreyrwamakuba-rgb/Marketing_Efficiency_Overview/blob/f6da37bbee6970c17c5186e3d30d68fff4ae34c0/Marketing%20Dashboard%20Apr.png)
 
 ## Business Problem
 DTC ecommerce platforms face several key challenges:
